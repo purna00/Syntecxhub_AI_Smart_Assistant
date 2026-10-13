@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs and secrets
+*.log
+.env
+.env.*
+
+# Private face-authentication data
+models/*
+!models/.gitkeep
