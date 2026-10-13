@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# JARVIS AI Personal Voice Assistant
 
 
@@ -280,3 +281,7 @@ This project was developed as part of the Syntecxhub AI task program to practice
 
 
 
+=======
+# Syntecxhub_AI_Smart_Assistant
+Python-based JARVIS AI Smart Assistant with face authentication, voice recognition, text commands, and web search capabilities. Syntecxhub AI Task 4 project.
+>>>>>>> d64588638b669ebdf99d9cfdb83c3625aff979b2
